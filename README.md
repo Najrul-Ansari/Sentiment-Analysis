@@ -10,7 +10,7 @@ In this notebook we will be doing some sentiment analysis in python using three 
 VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media. It is fully open-sourced under the [MIT License].
 
 ## RoBERTa
-RoBERTa base model
+RoBERTa is a transformers model pretrained on a large corpus of English data in a self-supervised fashion. This means it was pretrained on the raw texts only, with no humans labelling them in any way (which is why it can use lots of publicly available data) with an automatic process to generate inputs and labels from those texts.
 
 Kaggle Notebook - https://www.kaggle.com/code/najrulansari/sentiment-analysis/edit
 
